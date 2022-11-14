@@ -9,10 +9,10 @@ APPC-451K consists of 451,882 privacy policy documents from 24 different app cat
 **How do I cite APPC-451K?**
 If you use our corpus, please cite
 ```
-@article{devlin2018bert,
-  title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
-  author={Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina},
-  journal={arXiv preprint arXiv:1810.04805},
-  year={2018}
+@article{Hamad2022do,
+  title={Do the Right Thing: A Privacy Policy Adherence Analysis of Over Two Million Apps in Apple iOS App Store},
+  author={Hamad Alamri, Carsten Mapl, Saad Mohamad, Gregory Epiphaniou},
+  journal={Sensors},
+  year={2022}
 }
 ```
