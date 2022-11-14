@@ -1,6 +1,6 @@
 # APPE
 In this project we conducted a store-wide privacy assessment for the Apple App Store across 24 different app categories.
-The results of our investigation are reported in the paper titled:Do the Right Thing: A Privacy Policy Adherence Analysis of Over Two Million Apps in Apple iOS App Store
+The results of our investigation are reported in the paper titled: Do the Right Thing: A Privacy Policy Adherence Analysis of Over Two Million Apps in Apple iOS App Store
 
 
 **App Privacy Policy Corpus (APPC-451K)** 
