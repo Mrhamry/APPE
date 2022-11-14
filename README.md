@@ -3,4 +3,5 @@ In this project we conducted a store-wide privacy assessment for the Apple App S
 The results of our investigation are reported in the paper titled:Do the Right Thing: A Privacy Policy Adherence Analysis of Over Two Million Apps in Apple iOS App Store
 
 
-**App Privacy Policy Corpus (APPC-451K)** consists of 451,882 privacy policy documents from 24 different app categories. This privacy policy corpus has an average sentence count of 68 sentences per policy and an average of 26 words per sentence. It also has a mean policy length of about 1,845 words per policy,and standard deviation of about 1668.
+**App Privacy Policy Corpus (APPC-451K)** 
+APPC-451K consists of 451,882 privacy policy documents from 24 different app categories. This privacy policy corpus has an average sentence count of 68 sentences per policy and an average of 26 words per sentence. It also has a mean policy length of about 1,845 words per policy,and standard deviation of about 1668.
