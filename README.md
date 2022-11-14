@@ -1,2 +1,2 @@
 # APPE
-In this project we conduct a store-wide privacy assensment for Apple App Atore across 24 app categories.
+In this project we conducted a store-wide privacy assensment for Apple App Store across 24 app categories.
