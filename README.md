@@ -20,6 +20,7 @@ If you use our corpus, please cite (Pending confirmation)
   title={Do the Right Thing: A Privacy Policy Adherence Analysis of Over Two Million Apps in Apple iOS App Store},
   author={Hamad Alamri, Carsten Mapl, Saad Mohamad, Gregory Epiphaniou},
   journal={Sensors},
-  year={2022}
+  year={2022},
+  publisher={MDPI}
 }
 ```
