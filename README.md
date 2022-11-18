@@ -7,7 +7,12 @@ The results of our investigation are reported in the paper titled: Do the Right 
 
 APPC-451K consists of 451,882 privacy policy documents from 24 different app categories. This privacy policy corpus has an average sentence count of 68 sentences per policy and an average of 26 words per sentence. It also has a mean policy length of about 1,845 words per policy,and standard deviation of about 1668.
 
-_Once the preparation is complete, the corpus and all other related materials will be made available here._
+**How to download APPC-451K?**
+
+You can downalod the corpus here [I'm an inline-style link]([https://www.google.com](https://drive.google.com/file/d/1pqrCBUuMRgJK8AJenMrlsKHjMAyocM1X/view?usp=share_link))
+
+
+_Once the preparation is complete, all other related materials will be made available here._
 
 *Meanwhile, for any inquiries, please contact the corresponding author, Hamad Alamri, at h.alamri@warwick.ac.uk*
 
