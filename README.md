@@ -9,7 +9,7 @@ APPC-451K consists of 451,882 privacy policy documents from 24 different app cat
 
 **How to download APPC-451K?**
 
-You can downalod the corpus from here [APPC-451](https://drive.google.com/file/d/1pqrCBUuMRgJK8AJenMrlsKHjMAyocM1X/view?usp=share_link)
+You can downalod the corpus from here <!--[APPC-451](https://drive.google.com/file/d/1pqrCBUuMRgJK8AJenMrlsKHjMAyocM1X/view?usp=share_link)--!>
 
 
 _Once the preparation is complete, all other related materials will be made available here._
@@ -25,7 +25,6 @@ If you use our corpus, please cite (Pending confirmation)
   title={Do the Right Thing: A Privacy Policy Adherence Analysis of Over Two Million Apps in Apple iOS App Store},
   author={Hamad Alamri, Carsten Mapl, Saad Mohamad, Gregory Epiphaniou},
   journal={Sensors},
-  year={2022},
-  publisher={MDPI}
+  year={2022}
 }
 ```
