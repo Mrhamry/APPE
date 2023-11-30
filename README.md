@@ -19,7 +19,7 @@ _Once the preparation is complete, all other related materials will be made avai
 
 **How do I cite APPC-451K?**
 
-If you use our corpus, please cite (Pending confirmation)
+If you use our corpus, please cite
 ```
 @article{Hamad2022do,
   title={Do the Right Thing: A Privacy Policy Adherence Analysis of Over Two Million Apps in Apple iOS App Store},
