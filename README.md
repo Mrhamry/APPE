@@ -12,9 +12,8 @@ APPC-451K consists of 451,882 privacy policy documents from 24 different app cat
 You can downalod the corpus from here [APPC-451](https://drive.google.com/file/d/1pqrCBUuMRgJK8AJenMrlsKHjMAyocM1X/view?usp=share_link)
 
 
-_Once the preparation is complete, all other related materials will be made available here._
 
-*Meanwhile, for any inquiries, please contact the corresponding author, Hamad Alamri, at h.alamri@warwick.ac.uk*
+*For any inquiries, please contact the corresponding author, Hamad Alamri, at h.alamri@warwick.ac.uk*
 
 
 **How do I cite APPC-451K?**
