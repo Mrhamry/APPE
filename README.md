@@ -19,9 +19,8 @@ Note* The coprus is huge. We recommend that it is opened it in a development env
 *For any inquiries, please contact the corresponding author, Hamad Alamri, at h.alamri@warwick.ac.uk*
 
 
-**How do I cite APPC-451K?**
+**If you use APPC-451K or any or any other supplied material, you should cite**
 
-If you use any of our supplied material in this page, you should cite
 ```
 @article{Hamad2022do,
   title={Do the Right Thing: A Privacy Policy Adherence Analysis of Over Two Million Apps in Apple iOS App Store},
