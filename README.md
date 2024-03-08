@@ -9,7 +9,7 @@ APPC-451K consists of 451,882 privacy policy documents from 24 different app cat
 
 **How to download APPC-451K?**
 
-You can downalod the corpus from here [APPC-451]([https://drive.google.com/file/d/1pqrCBUuMRgJK8AJenMrlsKHjMAyocM1X/view?usp=share_link](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/EbxuVgW_ooZOmFRnRo8dikQB0G6q8oajQyzC9IIL129ojg?e=EUEGEZ))
+You can downalod the corpus from here [APPC-451]([https://drive.google.com/file/d/1pqrCBUuMRgJK8AJenMrlsKHjMAyocM1X/view?usp=share_link](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/EbxuVgW_ooZOmFRnRo8dikQB0G6q8oajQyzC9IIL129ojg?e=EUEGEZ)
 
 
 Note* The coprus is huge. We recommend that it is opened it in a development environment.
